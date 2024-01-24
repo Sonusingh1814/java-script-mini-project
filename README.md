@@ -1,2 +1,4 @@
 # java-script-mini-project
-some mini projects using java script and tailwind css 
+tic tac toe game using java script
+
+![Uploading Screenshot 2024-01-24 195124.png…]()
